@@ -28,7 +28,7 @@ def menu():
 
 def lmgtfy():
     words = input('Ok, So how can I be of assistance? ')
-    if words == 'quit' or 'exit':
+    if words == 'quit':
         sys.exit()
     elif words == 'credits':
         print('Tux was created by OliPicard. full source code at github.com/olipicard/tux')
