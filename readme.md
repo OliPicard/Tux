@@ -13,6 +13,10 @@ Your friendly, Intelligent AI.
 -multi-platform optimized.
 -prevents lazy questions.
 
+<h2>Credits</h2>
+Thanks to /r/linux sub-reddit for the idea.
+a big thanks goes out to /u/Randolopho for the original concept.
+
 <h2>Installation Instructions</h2>
 Step 1) Download Python or use your friendly package manager to download Python 3.
 Step 2) Run the tux.py script
