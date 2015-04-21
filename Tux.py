@@ -6,12 +6,13 @@ import sys
 '''
 Tux the friendly AI
 Developed by OliPicard - github.com/olipicard/tux/
+This program is licenced under the GPL GNU 3.0 licence.
 '''
 
 
 def menu():
     tux = '''
-       .--.
+        .--.
        |o_o |
        |:_/ |
       //   \ \|
